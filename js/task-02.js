@@ -17,7 +17,7 @@ const elLiMarkup = item => {
   elLi.classList.add("item");
   console.log(elLi); 
   return elLi;  
-
+ 
 }
 //  const elUlMarkup = ingredients.forEach(elLiMarkup);
 // const elUlMarkup = ingredients.forEach(function (item) {
